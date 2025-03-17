@@ -29,6 +29,8 @@ main {
     justify-content: center;
     align-items: center;
     padding: 20px 70px;
+    height: 100dvh;
+  
 }
 
 .HeroIconCard {
@@ -38,7 +40,6 @@ main {
     grid-gap: 20px;
     justify-content: center;
     align-items: center;
-    width: 100%;
     width: 100%;
 }
 
